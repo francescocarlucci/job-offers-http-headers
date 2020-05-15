@@ -4,7 +4,7 @@ Did you know the coolest IT companies in the world have job offers *"hidden"* in
 
 ![Sample Header](https://francescocarlucci.com/img/job-offers-http-headers.png)
 
-I've put them all together in this repo.
+I've put them all together in this repo. Full blog post at: [https://frenxi.com/http-headers-you-dont-expect/](https://frenxi.com/http-headers-you-dont-expect/)
 
 HTTP headers scraped:
 
