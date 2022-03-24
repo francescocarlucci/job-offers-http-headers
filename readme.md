@@ -2,9 +2,7 @@
 
 Did you know the coolest IT companies in the world have job offers *"hidden"* in HTTP headers?
 
-![Sample Header](https://francescocarlucci.com/img/job-offers-http-headers.png)
-
-I've put them all together in this repo. Full blog post at: [https://frenxi.com/http-headers-you-dont-expect/](https://frenxi.com/http-headers-you-dont-expect/)
+I've put them all together in this repo. Full blog post at: [https://carluc.ci/blog/http-headers-you-dont-expect/](https://carluc.ci/blog/http-headers-you-dont-expect/)
 
 HTTP headers scraped:
 
@@ -83,4 +81,4 @@ HTTP headers scraped:
 
 
 
-By [frenxi](https://frenxi.com)
+By [frenxi](https://carluc.ci/)
