@@ -2,7 +2,7 @@
 
 Did you know the coolest IT companies in the world have job offers *"hidden"* in HTTP headers?
 
-I've put them all together in this repo. Full blog post at: [https://carluc.ci/blog/http-headers-you-dont-expect/](https://carluc.ci/blog/http-headers-you-dont-expect/)
+I've put them all together in this repo. Full blog post at: [https://francescocarlucci.com/blog/http-headers-you-dont-expect](https://francescocarlucci.com/blog/http-headers-you-dont-expect)
 
 HTTP headers scraped:
 
